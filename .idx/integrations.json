@@ -1,0 +1,7 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://infographic-animator-4251e.web.app"
+  },
+  "cloud_run_deploy": {},
+  "gemini_api": {}
+}
