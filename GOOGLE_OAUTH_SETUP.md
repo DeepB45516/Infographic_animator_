@@ -44,10 +44,10 @@ Update your environment variables with the real Client ID:
 
 ```bash
 # Backend environment variable
-GOOGLE_CLIENT_ID=your-real-client-id-here.apps.googleusercontent.com
+GOOGLE_CLIENT_ID=997891537362-hjvip19htg6uee1clq5gimo7a3qc46j3.apps.googleusercontent.com
 
 # Frontend environment variable  
-VITE_GOOGLE_CLIENT_ID=your-real-client-id-here.apps.googleusercontent.com
+VITE_GOOGLE_CLIENT_ID=997891537362-hjvip19htg6uee1clq5gimo7a3qc46j3.apps.googleusercontent.com
 ```
 
 ### Option B: Using the DevServerControl Tool
