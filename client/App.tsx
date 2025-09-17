@@ -2,6 +2,7 @@ import "./global.css";
 
 import { Toaster } from "@/components/ui/toaster";
 
+
 // Global ResizeObserver error suppression
 if (typeof window !== 'undefined') {
   const resizeObserverErrorHandler = (e: ErrorEvent) => {
